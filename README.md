@@ -4,9 +4,9 @@ A repository for analyzing and managing Vaccine Adverse Event Reporting System (
 
 ## Overview
 
-The **Vaccine Adverse Event Reporting System (VAERS)** is a national passive surveillance system co-administered by the U.S. Food and Drug Administration (FDA) and the Centers for Disease Control and Prevention (CDC). VAERS collects and monitors reports of adverse events following vaccination to detect potential safety signals and identify rare or unusual vaccine adverse events.
+The **[Vaccine Adverse Event Reporting System (VAERS)](https://vaers.hhs.gov/)** is a national passive surveillance system co-administered by the U.S. Food and Drug Administration (FDA) and the Centers for Disease Control and Prevention (CDC). VAERS collects and monitors reports of adverse events following vaccination to detect potential safety signals and identify rare or unusual vaccine adverse events.
 
-The **v-safe COVID-19 dataset**, provided by the **Centers for Disease Control and Prevention (CDC)**, contains de-identified data from the v-safe program—a smartphone-based system that monitors the safety of COVID-19 vaccines in the United States.
+The **[v-safe COVID-19 dataset](https://healthdata.gov/dataset/v-safe-COVID-19/gcmw-987r/about_data)**, provided by the **[Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/covid/index.html)**, contains de-identified data from the v-safe program—a smartphone-based system that monitors the safety of COVID-19 vaccines in the United States.
 
 The **[Vaccine Injury Compensation Data](https://www.hrsa.gov/vaccine-compensation/data)** page by HRSA provides monthly updated reports on claims, adjudications, and compensation awarded through the **[National Vaccine Injury Compensation Program (VICP)](https://www.hrsa.gov/vaccine-compensation)**, emphasizing vaccine safety and detailing claims by vaccine type. Approximately 60% of compensations result from settlements without determining vaccine causation.
 
