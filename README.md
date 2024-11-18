@@ -163,3 +163,7 @@ For more details, access the [full article here](https://www.nature.com/articles
 - Bucket Referenced in Code is public, but limited lifespan so may go away in near future
 - Autonomous Database - create time approximately 1 hour with 2 OCPU 
 
+---
+## License (OCI)
+- [The Unlicense](https://github.com/BitKind/vaers/blob/main/LICENSE)
+- [https://unlicense.org](https://unlicense.org/)
