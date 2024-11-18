@@ -8,6 +8,8 @@ The **Vaccine Adverse Event Reporting System (VAERS)** is a national passive sur
 
 The **v-safe COVID-19 dataset**, provided by the **Centers for Disease Control and Prevention (CDC)**, contains de-identified data from the v-safe program—a smartphone-based system that monitors the safety of COVID-19 vaccines in the United States.
 
+The **Vaccine Injury Compensation Data** page by HRSA provides monthly updated reports on claims, adjudications, and compensation awarded through the **National Vaccine Injury Compensation Program (VICP)**, emphasizing vaccine safety and detailing claims by vaccine type. Approximately 60% of compensations result from settlements without determining vaccine causation.
+
 ---
 ---
 
