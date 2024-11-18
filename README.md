@@ -144,8 +144,6 @@ This study investigates the potential of wearable technology, specifically smart
 ### Significance
 This research underscores the role of wearable technology in advancing vaccine safety monitoring by offering continuous, non-invasive, and high-sensitivity data collection.
 
----
-
 For more details, access the [full article here](https://www.nature.com/articles/s41746-022-00683-w).
 
 ---
