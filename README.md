@@ -146,7 +146,7 @@ This research underscores the role of wearable technology in advancing vaccine s
 
 For more details, access the [full article here](https://www.nature.com/articles/s41746-022-00683-w).
 
-
+--- **[Society for Critical Care in Medicine](https://www.linkedin.com/company/society-of-critical-care-medicine/)** ---
 [Critical Data for Critical Care: A Primer on Data Science in Intensive Care](https://journals.lww.com/ccejournal/fulltext/2024/11000/critical_data_for_critical_care__a_primer_on.8.aspx)
 
 
