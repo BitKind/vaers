@@ -105,6 +105,26 @@ The **v-safe COVID-19 dataset**, provided by the **Centers for Disease Control a
 - [Create an Oracle Free Tier Account](https://github.com/BitKind/vaers/blob/main/GetOracleFreeTier.md)
 
 ---
+## Additional Data Sources
+
+### [Vaccine Injury Compensation Data | HRSA](https://www.hrsa.gov/vaccine-compensation/data)
+
+The Health Resources and Services Administration (HRSA) provides detailed data on the National Vaccine Injury Compensation Program (VICP) through its Vaccine Injury Compensation Data page. This resource offers monthly updated reports that include:
+
+- **Petitions Filed**: The number of claims submitted to the VICP.
+- **Adjudications**: Outcomes of cases, specifying those compensated and dismissed.
+- **Awards Paid**: Details on compensation amounts and types.
+- **Claims by Vaccine**: Breakdown of claims associated with specific vaccines.
+- **Adjudication Categories by Vaccine**: Classification of case outcomes per vaccine type.
+
+It’s noted that approximately 60% of compensations result from negotiated settlements, where the Department of Health and Human Services has not concluded that the vaccine caused the alleged injury.
+
+For comprehensive statistics and further information, the HRSA provides a link to the latest data report in PDF format.
+
+#### Latest Data Report
+[View the Latest Data Report (PDF)](https://www.hrsa.gov/sites/default/files/hrsa/vicp/vicp-stats-01-01-24.pdf)
+
+---
 
 ## Notes
 - vaers_data: load error - approximately 9 rows - Error preserved in VALIDATE$ tables
