@@ -127,6 +127,27 @@ For comprehensive statistics and further information, the HRSA provides a link t
 #### Latest Data Report
 [View the Latest Data Report (PDF)](https://www.hrsa.gov/sites/default/files/hrsa/vicp/vicp-stats-01-01-24.pdf)
 
+
+## Data Source: Higher Sensitivity Monitoring of Reactions to COVID-19 Vaccination Using Smartwatches
+
+**Citation**: Nature Digital Medicine, "Higher Sensitivity Monitoring of Reactions to COVID-19 Vaccination Using Smartwatches"  
+[Link to Article](https://www.nature.com/articles/s41746-022-00683-w)
+
+### Summary
+This study investigates the potential of wearable technology, specifically smartwatches, to monitor physiological changes following COVID-19 vaccination. Researchers analyzed data on heart rate, sleep patterns, and activity levels collected from participants wearing smartwatches. The findings revealed that these devices could detect subtle physiological reactions to the vaccine, such as changes in resting heart rate, that are not easily identified through traditional monitoring methods.
+
+#### Key Highlights:
+- Smartwatches provide real-time data on physiological changes post-vaccination.
+- Enhanced sensitivity in detecting vaccine reactions compared to traditional methods.
+- Potential applications in improving personalized health monitoring and public health strategies.
+
+### Significance
+This research underscores the role of wearable technology in advancing vaccine safety monitoring by offering continuous, non-invasive, and high-sensitivity data collection.
+
+---
+
+For more details, access the [full article here](https://www.nature.com/articles/s41746-022-00683-w).
+
 ---
 
 ## Notes
