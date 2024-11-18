@@ -108,7 +108,7 @@ The **[Vaccine Injury Compensation Data](https://www.hrsa.gov/vaccine-compensati
 - [Create an Oracle Free Tier Account](https://github.com/BitKind/vaers/blob/main/GetOracleFreeTier.md)
 
 ---
-## Additional Data Sources
+# Additional Data Sources
 
 ### [Vaccine Injury Compensation Data | HRSA](https://www.hrsa.gov/vaccine-compensation/data)
 
