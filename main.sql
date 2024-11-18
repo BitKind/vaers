@@ -4,6 +4,8 @@
 -- no Schema Prefix: Must be run from correct schema
 -- DATA_PUMP_DIR read,write required for External Table Create
 
+-- variables.sql 
+
 -- @create_credential.sql
 
 @create_external_table_ext_vaers_data.sql
